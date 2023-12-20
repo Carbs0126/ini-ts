@@ -1,6 +1,5 @@
 {
-  "devDependencies": {
-    "@types/jquery": "^3.5.19",
-    "@types/node": "^20.6.3"
-  }
+    "devDependencies": {
+        "@types/node": "^20.6.3"
+    }
 }
